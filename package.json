@@ -1,0 +1,22 @@
+{
+  "name": "angular1poc",
+  "version": "1.0.0",
+  "description": " a poc for angular1 application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotnetphreak/Angular1POC.git"
+  },
+  "author": "saurabh agrawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dotnetphreak/Angular1POC/issues"
+  },
+  "homepage": "https://github.com/dotnetphreak/Angular1POC#readme",
+  "dependencies": {
+    "angular": "^1.6.1"
+  }
+}
