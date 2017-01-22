@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dotnetphreak/Angular1POC#readme",
   "dependencies": {
-    "angular": "^1.6.1"
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1"
   }
 }
